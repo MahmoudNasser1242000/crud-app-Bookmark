@@ -1,5 +1,5 @@
 <h1>crud app (bookmarker)</h1>
-<h4 style="color: #f1f1f1">languages:</h4>
+<h4>languages:</h4>
 <ul>
   <li>html</li>
   <li>css</li>
